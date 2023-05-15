@@ -1,0 +1,31 @@
+
+video{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50%;
+    margin-left: -50%;
+    z-index: 1;
+}
+.container{
+    width: 40%;
+    background-color: black;
+    color: azure;
+    font-family: 'Special Elite', cursive;
+    position: fixed;
+    top:30%;
+    left:30%;
+    z-index: 2;
+    opacity: 50%;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+}
+a:link , a:visited{
+    color:white;
+}
+a:hover{
+    color: green ;
+}
+
